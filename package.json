@@ -1,0 +1,8 @@
+{
+  "name": "languages-by-gdp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GA1/languages-by-gdp",
+  "author": "GA1 <nvkga1@gmail.com>",
+  "license": "MIT"
+}

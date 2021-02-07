@@ -7,7 +7,7 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 4	 Japan	5236138	Japanese
 5	 Germany	4454498	German
 6	 Russia	4021733	Russia
-7	 Indonesia	3328288	Indonesia
+7	 Indonesia	3328288	Indonesian
 8	 Brazil	3078901	Portuguese
 9	 United Kingdom	2978564	English
 10	 France	2954196	France
@@ -16,7 +16,7 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 13	 Turkey	2381594	Turkish
 14	 South Korea	2293475	Korean
 15	 Canada	1808995	English
-16	 Spain	1773364	Spain
+16	 Spain	1773364	Spanish
 17	 Saudi Arabia	1608610	Arabic
 18	 Australia	1307916	English
 19	 Egypt	1292478	Arabic
@@ -25,13 +25,13 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 21	 Thailand	1261485	Thai
 22	 Pakistan	1076258	Hindustani
 23	 Vietnam	1047318	Vietnamese
-24	 Nigeria	1044211	English2	
+24	 Nigeria	1044211	
 25	 Iran	1006697	Farsi
 26	 Netherlands	986773	Dutch
 27	 Philippines	933913	Tagalog
 28	 Argentina	924539	Spanish
 29	 Malaysia	900426	Malay
-30	 Bangladesh	864883	
+30	 Bangladesh	864883	Bengali	
 31	 Colombia	719251	Spanish
 32	 South Africa	710773	
 33	 United Arab Emirates	647650	Arabic	
@@ -107,8 +107,9 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 101	 Latvia	58593	
 102	 Senegal	58075	
 103	 Georgia	56083	
-104	 Honduras	55057	
-105	 El Salvador	54488	
+104	 Honduras	55057	Spanish	
+105	 El Salvador	54488	Spanish
+-	 Syria	 50280	Arabic
 106	 Estonia	49097	
 107	 Bosnia and Herzegovina	48839	
 108	 Mali	47613	
@@ -122,23 +123,23 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 115	 Zimbabwe	39234	
 116	 Albania	39113	
 117	 Botswana	39097	
-118	 Trinidad and Tobago	36418	
-119	 Nicaragua	35337	
-120	 Guinea	35137	
+118	 Trinidad and Tobago	36418	Spanish	
+119	 Nicaragua	35337	Spanish
+120	 Guinea	35137	Spanish
 121	 Moldova	34908	
 122	 Cyprus	34620	
-123	 North Macedonia	34523	
+123	 North Macedonia	34523		
 124	 Papua New Guinea	33902	
 125	 Tajikistan	33727	
 126	 Gabon	33416	
-127	 Libya	31531	
+127	 Libya	31531	Arabic
 128	 Kyrgyzstan	31439	
 129	 Niger	30322	
 130	 Rwanda	30301	
 131	 Brunei	28470	
 132	 Jamaica	27855	
-133	 West Bank and Gaza	27095	
-134	 Chad	26574	
+133	 West Bank and Gaza	27095	Arabic	
+134	 Chad	26574	Arabic
 135	 Mauritius	26252	
 136	 Equatorial Guinea	25007	
 137	 Namibia	24132	
@@ -149,7 +150,7 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 141	 Iceland	19820	
 142	 Republic of the Congo	19818	
 143	 Haiti	19704	
-144	 Somalia	13938	
+144	 Somalia	13938	Arabic	
 145	 Guyana	13661	
 146	 Sierra Leone	13660	
 147	 Togo	13583	
@@ -194,4 +195,5 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 186	 Marshall Islands	209	
 187	 Nauru	127	
 188	 Tuvalu	50	
+-	 Liechtenstein	 4978	German
 `

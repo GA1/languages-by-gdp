@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/GA1/languages-by-gdp",
   "author": "GA1 <nvkga1@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
 }

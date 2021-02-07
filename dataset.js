@@ -10,7 +10,7 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 7	 Indonesia	3328288	Indonesian
 8	 Brazil	3078901	Portuguese
 9	 United Kingdom	2978564	English
-10	 France	2954196	France
+10	 France	2954196	French
 11	 Mexico	2424511	Spanish
 12	 Italy	2415410	Italian
 13	 Turkey	2381594	Turkish

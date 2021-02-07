@@ -10,5 +10,12 @@
   },
   "dependencies": {
     "prettier": "^2.2.1"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "semi": false,
+    "singleQuote": true,
+    "jsxSingleQuote": true,
+    "printWidth": 120
   }
 }

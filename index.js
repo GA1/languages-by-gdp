@@ -32,6 +32,4 @@ const languageToGdpSequence = Array.from(languageToGDP, ([language, gdp]) => ({l
 languageToGdpSequence.sort((a, b) => b.gdp - a.gdp)
 
 console.log(`worldGDP is ${worldGDP}`)
-// console.log(parsedInfo)
 console.log(languageToGdpSequence.map((x, index) => `${index}, ${x.language}, ${x.gdp}, ${String(x.gdp/worldGDP*100).substring(0,5)}%`))
-// console.log(languageToGDP)

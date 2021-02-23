@@ -6,8 +6,8 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 3	 India	8681303	Hindustani
 4	 Japan	5236138	Japanese
 5	 Germany	4454498	German
-6	 Russia	4021733	Russia
-7	 Indonesia	3328288	Indonesian
+6	 Russia	4021733	Russian
+7	 Indonesia	3328288	Malay
 8	 Brazil	3078901	Portuguese
 9	 United Kingdom	2978564	English
 10	 France	2954196	French
@@ -28,7 +28,7 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 24	 Nigeria	1044211	
 25	 Iran	1006697	Farsi
 26	 Netherlands	986773	Dutch
-27	 Philippines	933913	Tagalog
+27	 Philippines	933913
 28	 Argentina	924539	Spanish
 29	 Malaysia	900426	Malay
 30	 Bangladesh	864883	Bengali	
@@ -37,7 +37,7 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 33	 United Arab Emirates	647650	Arabic	
 34	  Switzerland	590900	German	
 35	 Romania	584852	Romanian
-36	 Belgium	575808	French
+36	 Belgium	575808	Dutch
 37	 Kazakhstan	569628	Russian
 38	 Singapore	551614	English	
 39	 Sweden	551533	Swedish
@@ -117,7 +117,7 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 110	 Madagascar	45425	
 111	 Benin	41825	
 112	 Mongolia	41125	
-113	 Mozambique	40923	
+113	 Mozambique	40923	Portuguese
 114	 Armenia	40788	
 —	 Macau	40049	
 115	 Zimbabwe	39234	
@@ -196,4 +196,6 @@ exports.COUNTRIES_GDP_PPP_AND_LANGUAGE_RAW =
 187	 Nauru	127	
 188	 Tuvalu	50	
 -	 Liechtenstein	 4978	German
+-	 Venezuela	 3894	Spanish
+-	 Cuba	 1329	Spanish
 `
